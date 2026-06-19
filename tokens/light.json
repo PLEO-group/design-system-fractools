@@ -4,6 +4,10 @@
       "bright": {
         "value": "{color.cyan-400}",
         "type": "color"
+      },
+      "info": {
+        "value": "{color.lavender-200}",
+        "type": "color"
       }
     }
   }
