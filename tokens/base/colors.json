@@ -1,0 +1,18 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "value": "#22d3ee",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#8b5cf6",
+        "type": "color"
+      },
+      "highlight": {
+        "value": "#b8b0d8",
+        "type": "color"
+      }
+    }
+  }
+}
