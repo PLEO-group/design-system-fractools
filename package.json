@@ -1,6 +1,6 @@
 {
   "name": "@pleodigital/design-system-fractools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Centralny system tokenów projektowych generowany przez Style Dictionary.",
   "main": "dist/js/tailwind-preset.js",
   "publishConfig": {
