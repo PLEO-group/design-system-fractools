@@ -1,0 +1,10 @@
+{
+  "color": {
+    "surface": {
+      "bright": {
+        "value": "{cyan-400}",
+        "type": "color"
+      }
+    }
+  }
+}
