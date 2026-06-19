@@ -117,11 +117,11 @@ const ColorRow = ({ groupName, tokens }) => {
     const gridTokens = createShadeGrid(groupName, tokens);
     const fullPrefix = `--color-${groupName}-`;
     return (
-        <div style={{ marginBottom: '20px', borderBottom: '1px solid #ddd', paddingBottom: '10px' }}>
+        <div style={{ marginBottom: '20px', borderBottom: '1px solid #3d3570', paddingBottom: '10px' }}>
             <h3>{fullPrefix}</h3>
-            <div style={{ display: 'flex', flexWrap: 'wrap', rowGap: '10px' }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '24px 12px' }}>
                 {gridTokens.map(token => (
-                    <div key={token.name} style={{ flexShrink: 0, margin: '0 5px' }}>
+                    <div key={token.name} style={{ flexShrink: 0 }}>
                         <ColorSwatch token={token} />
                     </div>
                 ))}
@@ -132,11 +132,17 @@ const ColorRow = ({ groupName, tokens }) => {
 
 
 export const Palette = {
+    parameters: {
+        layout: 'fullscreen',
+    },
     render: () => {
         const flatTokens = flattenTokens(sourceTokens.color || sourceTokens.colors, 'color-');
         const groupedTokens = groupTokensByBaseColor(flatTokens);
         return (
-            <div>
+            <div style={{ minHeight: '100vh', backgroundColor: '#0F0B1E', color: '#ffffff', padding: '24px' }}>
+                <h1 style={{ margin: '0 0 32px', color: '#00D4AA', fontSize: '32px', lineHeight: '40px', letterSpacing: 1 }}>
+                    COLOR TOKENS
+                </h1>
                 {Object.keys(groupedTokens).sort().map(groupName => (
                     <ColorRow
                         key={groupName}
