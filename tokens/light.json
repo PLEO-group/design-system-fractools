@@ -2,7 +2,7 @@
   "color": {
     "surface": {
       "bright": {
-        "value": "{cyan-400}",
+        "value": "{color.cyan-400}",
         "type": "color"
       }
     }
