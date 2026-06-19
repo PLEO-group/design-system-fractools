@@ -1,126 +1,128 @@
 {
-  "navy-400": {
-    "value": "#3d3570",
-    "type": "color"
-  },
-  "navy-500": {
-    "value": "#2e2756",
-    "type": "color"
-  },
-  "navy-600": {
-    "value": "#261f44",
-    "type": "color"
-  },
-  "navy-700": {
-    "value": "#1e1838",
-    "type": "color"
-  },
-  "navy-800": {
-    "value": "#16112a",
-    "type": "color"
-  },
-  "navy-900": {
-    "value": "#0f0b1e",
-    "type": "color"
-  },
-  "lavender-50": {
-    "value": "#f0eeff",
-    "type": "color"
-  },
-  "lavender-200": {
-    "value": "#b8b0d8",
-    "type": "color"
-  },
-  "lavender-400": {
-    "value": "#9b91c0",
-    "type": "color"
-  },
-  "green-25": {
-    "value": "#edfdf8",
-    "type": "color"
-  },
-  "green-300": {
-    "value": "#2fdcba",
-    "type": "color"
-  },
-  "green-400": {
-    "value": "#00d4aa",
-    "type": "color"
-  },
-  "green-500": {
-    "value": "#00b894",
-    "type": "color"
-  },
-  "green-600": {
-    "value": "#00a081",
-    "type": "color"
-  },
-  "green-700": {
-    "value": "#00876e",
-    "type": "color"
-  },
-  "violet-400": {
-    "value": "#8b5cf6",
-    "type": "color"
-  },
-  "violet-500": {
-    "value": "#7c3aed",
-    "type": "color"
-  },
-  "cyan-400": {
-    "value": "#22d3ee",
-    "type": "color"
-  },
-  "white-100": {
-    "value": "#ffffff",
-    "type": "color"
-  },
-  "green-800": {
-    "value": "#006e5b",
-    "type": "color"
-  },
-  "green-900": {
-    "value": "#005648",
-    "type": "color"
-  },
-  "cyan-500": {
-    "value": "#0fb8d4",
-    "type": "color"
-  },
-  "cyan-600": {
-    "value": "#0c96ac",
-    "type": "color"
-  },
-  "cyan-700": {
-    "value": "#097485",
-    "type": "color"
-  },
-  "cyan-800": {
-    "value": "#075c69",
-    "type": "color"
-  },
-  "cyan-900": {
-    "value": "#043d47",
-    "type": "color"
-  },
-  "violet-600": {
-    "value": "#6d28d9",
-    "type": "color"
-  },
-  "violet-700": {
-    "value": "#5b21b6",
-    "type": "color"
-  },
-  "violet-800": {
-    "value": "#4c1d95",
-    "type": "color"
-  },
-  "violet-900": {
-    "value": "#3b0f6e",
-    "type": "color"
-  },
-  "fluo-green-400": {
-    "value": "#bdff72",
-    "type": "color"
+  "color": {
+    "navy-400": {
+      "value": "#3d3570",
+      "type": "color"
+    },
+    "navy-500": {
+      "value": "#2e2756",
+      "type": "color"
+    },
+    "navy-600": {
+      "value": "#261f44",
+      "type": "color"
+    },
+    "navy-700": {
+      "value": "#1e1838",
+      "type": "color"
+    },
+    "navy-800": {
+      "value": "#16112a",
+      "type": "color"
+    },
+    "navy-900": {
+      "value": "#0f0b1e",
+      "type": "color"
+    },
+    "lavender-50": {
+      "value": "#f0eeff",
+      "type": "color"
+    },
+    "lavender-200": {
+      "value": "#b8b0d8",
+      "type": "color"
+    },
+    "lavender-400": {
+      "value": "#9b91c0",
+      "type": "color"
+    },
+    "green-25": {
+      "value": "#edfdf8",
+      "type": "color"
+    },
+    "green-300": {
+      "value": "#2fdcba",
+      "type": "color"
+    },
+    "green-400": {
+      "value": "#00d4aa",
+      "type": "color"
+    },
+    "green-500": {
+      "value": "#00b894",
+      "type": "color"
+    },
+    "green-600": {
+      "value": "#00a081",
+      "type": "color"
+    },
+    "green-700": {
+      "value": "#00876e",
+      "type": "color"
+    },
+    "violet-400": {
+      "value": "#8b5cf6",
+      "type": "color"
+    },
+    "violet-500": {
+      "value": "#7c3aed",
+      "type": "color"
+    },
+    "cyan-400": {
+      "value": "#22d3ee",
+      "type": "color"
+    },
+    "white-100": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "green-800": {
+      "value": "#006e5b",
+      "type": "color"
+    },
+    "green-900": {
+      "value": "#005648",
+      "type": "color"
+    },
+    "fluo-green-400": {
+      "value": "#bdff72",
+      "type": "color"
+    },
+    "cyan-500": {
+      "value": "#0fb8d4",
+      "type": "color"
+    },
+    "cyan-600": {
+      "value": "#0c96ac",
+      "type": "color"
+    },
+    "cyan-700": {
+      "value": "#097485",
+      "type": "color"
+    },
+    "cyan-800": {
+      "value": "#075c69",
+      "type": "color"
+    },
+    "cyan-900": {
+      "value": "#043d47",
+      "type": "color"
+    },
+    "violet-600": {
+      "value": "#6d28d9",
+      "type": "color"
+    },
+    "violet-700": {
+      "value": "#5b21b6",
+      "type": "color"
+    },
+    "violet-800": {
+      "value": "#4c1d95",
+      "type": "color"
+    },
+    "violet-900": {
+      "value": "#3b0f6e",
+      "type": "color"
+    }
   }
 }
